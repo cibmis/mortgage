@@ -1,0 +1,228 @@
+.navbar a.nav-cibm {
+  font-size: 16px;
+  text-transform: uppercase;
+  padding-left: 1em !important;
+  padding-right: 1em !important;
+  color: white !important; }
+  .navbar a.nav-cibm:hover {
+    color: #d9d9d9 !important; }
+
+.carousel-item {
+  height: 75vh; }
+
+.carousel-image-1 {
+  background-image: linear-gradient(to right bottom, rgba(204, 230, 255, 0.2), rgba(26, 144, 255, 0.4)), url("../img/jumbo-business..jpg");
+  background-size: cover; }
+
+.carousel-image-2 {
+  background-image: linear-gradient(to right bottom, rgba(204, 230, 255, 0.2), rgba(26, 144, 255, 0.4)), url("../img/jumbo-life..jpg");
+  background-size: cover; }
+
+.carousel-image-3 {
+  background-image: linear-gradient(to right bottom, rgba(204, 230, 255, 0.2), rgba(26, 144, 255, 0.4)), url("../img/jumbo-home..jpg");
+  background-size: cover; }
+
+.nav-link-white {
+  color: white; }
+  .nav-link-white:hover {
+    color: #d9d9d9 !important; }
+
+.card-text {
+  font-weight: lighter;
+  font-size: 18px; }
+
+.img-div {
+  width: 100%;
+  max-height: 50vh;
+  object-fit: cover;
+  object-position: center top; }
+
+.jumbotron {
+  margin-bottom: 0rem !important; }
+
+.jumbotron-fluid {
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-position: top; }
+  .jumbotron-fluid-1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/manage-account.jpg");
+    max-height: 45vh; }
+  .jumbotron-fluid-accelcheck {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/acceleration-rocket.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-personalnow {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/now-checking.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-classiccheck {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/classic-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-altcheck {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/alternative-checking.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-highperform {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/high-performance-checking.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-accelsav {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/accelsav-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-bonussavings {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/bonsav-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-plannedsav {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/plannedsav-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-kidsclub {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/kidsclub-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-personalmm {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/personalmm-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-perselmm {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/perselmm-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-certdeposit {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/cd-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-hsa {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/hsa-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-coverdell {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/cover-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-mortgage {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/mortgage-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-conventional {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/conv-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-fha {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/fha-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-usda {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/usda-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-va {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/va-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-jumbo {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/jumbo-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-specialty {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/specialty-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-refinance {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/refi-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-renovate {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/reno-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-homeequity {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/homeequity-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-personalloan {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/personalloan-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-creditcard {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/creditcard-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-onlinemobile {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/onlinemobile-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-basicbusiness {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/basic-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-advantagecheck {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/advantage-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-premier {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/premier-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-lineofcredit {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/lineofcredit-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-termloan {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/termloan-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-fasttrack {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/fasttrack-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-realestate {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/realestate-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-busicreditcard {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/busicreditcard-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-sba {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/sba-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-receivables {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/receivables-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-payables {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/payables-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-moneymgmt {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/moneymgmnt-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-merchantservices {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/merchantservices-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-businesssave {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/savings-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-businessmm {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/businessmm-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-businessselect {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/businessselect-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-businesscd {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/businesscd-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-managebusiness {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/manage-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-mortgage101 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/mortgage101-jumbo.jpg");
+    max-height: 60vh; }
+
+.overlap {
+  position: relative;
+  margin-bottom: 275px;
+  height: 300px;
+  background-position: center;
+  background-size: cover; }
+  .overlap-1 {
+    background-image: url(../img/meet-expert.jpg); }
+  .overlap-2 {
+    background-image: url(../img/mortgageu.jpg); }
+  .overlap-3 {
+    background-image: url(../img/calculator.jpg); }
+  .overlap__card {
+    position: absolute;
+    margin: auto;
+    padding: 30px;
+    top: 220px;
+    width: 90%;
+    left: 0;
+    right: 0;
+    background-color: #FFFEF7;
+    box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.2);
+    transition: .2s; }
+    .overlap__card:hover {
+      transform: scale(1.05); }
+
+p.feature {
+  font-size: 150%;
+  font-weight: lighter; }
+
+.money-table {
+  width: 80%;
+  max-width: 1600px; }
+
+.fees {
+  font-size: 1.75rem;
+  font-weight: lighter; }
+  .fees .hide-border {
+    border-top: none; }
