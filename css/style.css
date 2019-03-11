@@ -226,3 +226,7 @@ p.feature {
   font-weight: lighter; }
   .fees .hide-border {
     border-top: none; }
+
+.photo {
+  -webkit-clip-path: circle(50% at 50% 50%);
+  clip-path: circle(50% at 50% 50%); }
