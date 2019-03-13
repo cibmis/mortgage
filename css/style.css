@@ -47,7 +47,7 @@
   background-position: top; }
   .jumbotron-fluid-1 {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/manage-account.jpg");
-    max-height: 45vh; }
+    max-height: 60vh; }
   .jumbotron-fluid-accelcheck {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/acceleration-rocket.jpg");
     max-height: 60vh; }
@@ -200,6 +200,9 @@
     max-height: 60vh; }
   .jumbotron-fluid-addmlo {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/add-jumbo.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-workbio {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/workbio.jpg");
     max-height: 60vh; }
 
 .overlap {
