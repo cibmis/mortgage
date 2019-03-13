@@ -210,6 +210,15 @@
   .jumbotron-fluid-mlo-workbio {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/workbio.jpg");
     max-height: 60vh; }
+  .jumbotron-fluid-mlo-proorg {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/professionalorganizations.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-mlo-comminvolve {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/communityinvolvement.jpg");
+    max-height: 60vh; }
+  .jumbotron-fluid-mlo-aboutme {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/aboutme.jpg");
+    max-height: 60vh; }
 
 .overlap {
   position: relative;
