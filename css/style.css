@@ -201,6 +201,9 @@
   .jumbotron-fluid-addmlo {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/add-jumbo.jpg");
     max-height: 60vh; }
+  .jumbotron-fluid-alp {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/alp_jumbo.jpg ");
+    max-height: 60vh; }
 
 .jumbotron-fluid-mlo {
   width: 100%;

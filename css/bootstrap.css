@@ -7378,6 +7378,14 @@ a.text-dark:hover, a.text-dark:focus {
       background-image: -webkit-linear-gradient(top left, rgba(35, 54, 84, 0.4), rgba(35, 54, 84, 0.4)), url("../img/card-specialty.jpg");
       background-image: -o-linear-gradient(top left, rgba(35, 54, 84, 0.4), rgba(35, 54, 84, 0.4)), url("../img/card-specialty.jpg");
       background-image: linear-gradient(to bottom right, rgba(35, 54, 84, 0.4), rgba(35, 54, 84, 0.4)), url("../img/card-specialty.jpg"); }
+  .card-image-ave-purchase-7 {
+    background-image: -webkit-linear-gradient(top left, rgba(35, 54, 84, 0.6), rgba(35, 54, 84, 0.6)), url("../img/card-alp.jpg");
+    background-image: -o-linear-gradient(top left, rgba(35, 54, 84, 0.6), rgba(35, 54, 84, 0.6)), url("../img/card-alp.jpg");
+    background-image: linear-gradient(to bottom right, rgba(35, 54, 84, 0.6), rgba(35, 54, 84, 0.6)), url("../img/card-alp.jpg"); }
+    .card-image-ave-purchase-7:hover {
+      background-image: -webkit-linear-gradient(top left, rgba(35, 54, 84, 0.4), rgba(35, 54, 84, 0.4)), url("../img/card-alp.jpg");
+      background-image: -o-linear-gradient(top left, rgba(35, 54, 84, 0.4), rgba(35, 54, 84, 0.4)), url("../img/card-alp.jpg");
+      background-image: linear-gradient(to bottom right, rgba(35, 54, 84, 0.4), rgba(35, 54, 84, 0.4)), url("../img/card-alp.jpg"); }
 
 .card-image-ave-team {
   background-size: cover;
